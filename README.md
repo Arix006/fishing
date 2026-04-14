@@ -1,2 +1,3 @@
-# fishing-bot
-Fishing bot automating fishing
+# Fishing-bot
+Fishing bot that automates fishing.
+Make sure you download tesseract and DO NOT change the install path.
